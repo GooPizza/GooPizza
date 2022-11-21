@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @GooPizza
+- 👀 I’m interested in creating cool little web apps for fun
+- 🌱 I’m currently learning HTML, CSS and Javascript
+- 📫 You can reach me on Discord (GooPizza#1984) or Twitter (@Pizzzerer)
